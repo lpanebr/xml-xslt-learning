@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0" specific-use="sps-1.1" xml:lang="pt">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">ensaio</journal-id>
+<journal-title-group>
+<journal-title>Ensaio Avaliação e Políticas Públicas em Educação</journal-title>
+<abbrev-journal-title abbrev-type="publisher">Ensaio: aval. pol. públ. Educ.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0104-4036</issn>
+<publisher><publisher-name>Ensaio Avaliação e Políticas Públicas em Educação</publisher-name></publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">ensaio86A5</article-id><article-id pub-id-type="doi">10.1590/S0104-40362015000100005</article-id><article-categories><subj-group subj-group-type="heading"><subject>Artigo Original</subject></subj-group>
+</article-categories><title-group>
+<article-title>Avaliação da satisfação de alunos por meio do Modelo de Resposta Gradual da Teoria da Resposta ao Item</article-title>
+<trans-title-group xml:lang="en">
+<trans-title>Student satisfaction evaluation through the Gradual Response Model of Item Response Theory</trans-title>
+</trans-title-group>
+<trans-title-group xml:lang="es">
+<trans-title>Evaluación de satisfacción de alumnos a través del Modelo de Respuesta Gradual de la Teoría de Respuesta al Ítem</trans-title>
+</trans-title-group>
+<alt-title alt-title-type="running-title">Avaliação da satisfação de alunos por meio do Modelo de Resposta Gradual da Teoria da Resposta ao Item</alt-title>
+<alt-title alt-title-type="running-authors">Fernando de Jesus Moreira Junior, Andreia Zanella, Luis Felipe Dias Lopes e Enio Júnior Seidel</alt-title>
+</title-group><contrib-group>
+<contrib contrib-type="author"><name><surname>Moreira</surname><given-names>Fernando de Jesus</given-names><suffix>Junior</suffix></name><xref ref-type="aff" rid="aff01"><sup>a</sup></xref></contrib>
+<contrib contrib-type="author"><name><surname>Zanella</surname><given-names>Andreia</given-names></name><xref ref-type="aff" rid="aff02"><sup>b</sup></xref></contrib>
+<contrib contrib-type="author"><name><surname>Lopes</surname><given-names>Luis Felipe Dias</given-names></name><xref ref-type="aff" rid="aff03"><sup>c</sup></xref></contrib>
+<contrib contrib-type="author"><name><surname>Seidel</surname><given-names>Enio Júnior</given-names></name><xref ref-type="aff" rid="aff04"><sup>d</sup></xref></contrib>
+<aff id="aff01"><label>a</label><institution content-type="orgname">Universidade Federal de Santa Maria</institution><institution content-type="orgdiv1">Departamento de Estatística</institution><addr-line><named-content content-type="city">Santa Maria</named-content></addr-line><institution content-type="original">Universidade Federal de Santa Maria – UFSM – Departamento de Estatística. Santa Maria, Rio Grande do Sul, Brasil.</institution></aff>
+<aff id="aff02"><label>b</label><institution content-type="orgname">Universidade Federal de Santa Maria</institution><institution content-type="orgdiv1">Programa de Pós-Graduação em Engenharia de Produção</institution><addr-line><named-content content-type="city">Santa Maria</named-content><named-content content-type="state">Rio Grande do Sul</named-content></addr-line><institution content-type="original">Universidade Federal de Santa Maria – UFSM – Programa de Pós-Graduação em Engenharia de Produção. Santa Maria, Rio Grande do Sul, Brasil.</institution></aff>
+<aff id="aff03"><label>c</label><institution content-type="orgname">Universidade Federal de Santa Maria</institution><institution content-type="orgdiv1">Departamento de Ciências Administrativas</institution><addr-line><named-content content-type="city">Santa Maria</named-content><named-content content-type="state">Rio Grande do Sul</named-content></addr-line><institution content-type="original">Universidade Federal de Santa Maria – UFSM – Departamento de Ciências Administrativas. Santa Maria, Rio Grande do Sul, Brasil.</institution></aff>
+<aff id="aff04"><label>d</label><institution content-type="orgname">Universidade Federal do Pampa</institution><institution content-type="orgdiv1">UNIPAMPA- Campus Itaqui – RS</institution><addr-line><named-content content-type="city">Itaqui</named-content><named-content content-type="state">Rio Grande do Sul</named-content></addr-line><institution content-type="original">Universidade Federal do Pampa – UNIPAMPA- Campus Itaqui – RS. Itaqui, Rio Grande do Sul, Brasil.</institution></aff>
+</contrib-group><author-notes>
+<fn fn-type="other"><p>Fernando de Jesus Moreira Junior: Doutor em Engenharia de Produção. Contato: <email>fmjunior@smail.ufsm.br</email> Andreia Zanella: Mestre em Engenharia de Produção. Contato: <email>andreia_zanella@yahoo.com.br</email> Luis Felipe Dias Lopes: Doutor em Engenharia de Produção. Contato: <email>lflopes67@yahoo.com.br</email> Enio Júnior Seidel: Doutor em Estatística e Experimentação Agropecuária. Contato: <email>ejrseidel@hotmail.com</email></p></fn>
+</author-notes><pub-date pub-type="epub"><season>Jan-Mar</season><year>2015</year></pub-date><volume>23</volume><issue>86</issue><fpage>129</fpage><lpage>158</lpage><history>
+<date date-type="received"><day>22</day><month>02</month><year>2013</year></date><date date-type="accepted"><day>24</day><month>07</month><year>2014</year></date>
+</history><permissions>
+<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+</license>
+</permissions><abstract>
+
+<p>O objetivo deste estudo foi utilizar a Teoria de Resposta ao Item (TRI) como ferramenta para a avaliação da satisfação dos alunos das disciplinas de Estatística Básica e Estatística Geral da Universidade Federal de Santa Maria (UFSM). Foi aplicado o Modelo de Resposta Gradual (MRG), por meio do qual foi criada uma escala de medida para a satisfação, em que foram posicionados os itens de satisfação e os respondentes, numa mesma unidade de medida. Os resultados mostraram que MRG da TRI foi adequado para a análise dos dados, permitindo a identificação de itens problemáticos, a construção de uma escala para a satisfação dos alunos e a identificação de níveis âncoras. Os achados irão permitir que os responsáveis pelo ensino da Estatística na instituição possam identificar em que é possível melhorar os procedimentos para que tal ensino seja cada vez mais satisfatório.</p>
+</abstract><trans-abstract xml:lang="en">
+<p>The aim of this study was to use the Item Response Theory (IRT) as a tool to assess the satisfaction of students of the Basic and General Statistics course at the Federal University of Santa Maria (UFSM). Through the application of the Graded Response Model (GRM), a measurement scale for satisfaction was created, where the items of satisfaction and the respondents were positioned in the same unit of measure. The results showed that the GRM of the IRT was suitable for the analysis of data, allowing the identification of problematic items, the construction of a scale for student satisfaction, and the identification of anchor levels. The findings will allow the staff responsible for the teaching of Statistics at the institution to identify how procedures can be improved so that teaching becomes increasingly satisfactory.</p>
+</trans-abstract><trans-abstract xml:lang="es">
+
+<p>El objetivo de este estudio fue utilizar la Teoría de Respuesta al Ítem (TRI) como una herramienta para la evaluación de satisfacción de los alumnos de las asignaturas de Estadística básica y Estadística general de la Universidad Federal de Santa María (UFSM). Se aplicó el Modelo de Respuesta Gradual (MRG) a través del cual se creó una escala de medida de satisfacción, donde los ítems de satisfacción junto con los encuestados se colocaron en la misma unidad de medida. Los resultados mostraron que el MRG del TRI eran adecuados para el análisis de los datos, permitiendo la identificación de ítems problemáticos, la construcción de una escala de satisfacción de alumnos y la identificación de niveles ancorados. Los resultados permitirán que los responsables de la enseñanza de estadística en la institución puedan identificar los procedimientos más adecuados para que la enseñanza sea cada vez más satisfactoria.</p>
+</trans-abstract><kwd-group kwd-group-type="author" xml:lang="pt"><kwd>Teoria da Resposta ao Item. Modelo de Resposta Gradual. Avaliação da satisfação. Alunos.</kwd></kwd-group><kwd-group kwd-group-type="author" xml:lang="en"><kwd>Item Response Theory. Gradual Response Model. Satisfaction evaluation. Students.</kwd></kwd-group><kwd-group kwd-group-type="author" xml:lang="es"><kwd>Teoría de Respuesta al Ítem. Modelo de Respuesta Gradual. Evaluación de satisfacción. Alumnos.</kwd></kwd-group>
+<funding-group><award-group>
+<funding-source id="sp1">FAPESP</funding-source>
+<award-id rid="sp1">2008/00171-8</award-id>
+</award-group><award-group>
+<funding-source id="sp2">CNPq</funding-source>
+<award-id rid="sp2">474160/2010-6</award-id>
+<award-id rid="sp2">303559/2012-8</award-id>
+</award-group></funding-group>
+<counts><fig-count count="6"/><table-count count="5"/><equation-count count="7"/><ref-count count="37"/><page-count count="29"/></counts></article-meta>
+</front>
+<body>
+
+<sec sec-type="intro">
+<title>Introdução</title>
+<p>O búfalo (<italic>Bubalus bubalis)</italic> foi domesticado entre 2.500 e 1.400 a.C. no continente asiático e, desde então, vem sendo cada vez mais utilizado pelo homem por sua característica de tripla aptidão (corte, leite e trabalho) (<xref rid="B005" ref-type="bibr">COCKRILL, 1984</xref>). O Brasil possui o maior rebanho de búfalos das Américas (<xref rid="B011" ref-type="bibr">JORGE et al., 2011</xref>), com cerca de 1,2 milhão de animais, sendo a maior parte encontrada na Região Norte do país (<xref rid="B009" ref-type="bibr">IBGE, 2012</xref>).</p>
+<p>Em pesquisa realizada por <xref rid="B022" ref-type="bibr">Velloso et al. (1994)</xref>, os bubalinos apresentaram melhor conversão alimentar para forrageiras, além de melhor ganho de peso e maior precocidade em relação aos bovinos Nelore, o que torna a espécie muito interessante para a terminação em confinamento.</p>
+<p>Apesar de apresentar algumas vantagens quando comparada à bovina, a carne bubalina ainda não possui um padrão de identidade e qualidade definido (<xref rid="B010" ref-type="bibr">JORGE, 2004</xref>) e por isso é geralmente comercializada como carne bovina (<xref rid="B018" ref-type="bibr">OLIVEIRA, 2005</xref>). Semelhanças no que diz respeito aos parâmetros físico-químicos (teor de umidade, proteínas, minerais, pH e perda por cocção) e sensoriais (suculência, sabor, aroma, maciez, textura e cor) foram reportadas por alguns autores, assim como diferenças em relação ao teor de gordura e força de cisalhamento, para os quais a carne de bubalinos apresenta valores menores (<xref rid="B017" ref-type="bibr">OHLY, 1997</xref>; <xref rid="B015" ref-type="bibr">MERLE et al., 2004</xref>; <xref rid="B020" ref-type="bibr">RODRIGUES; ANDRADE, 2004</xref>).</p>
+<p>No Brasil e no mundo é crescente a demanda por alimentos de preparo fácil e rápido, devido ao atual modo de vida urbano (<xref rid="B007" ref-type="bibr">GARCIA, 2003</xref>). Nesse contexto, destacam-se os hambúrgueres, consumidos em grande quantidade (<xref rid="B006" ref-type="bibr">GALÁN et al., 2010</xref>) pela praticidade de preparo, variedade de apresentação comercial e ampla faixa de preço nos mercados (<xref rid="B019" ref-type="bibr">PAULINO, 2012</xref>). A utilização da carne bubalina em produtos cárneos processados, mais especificamente em hambúrgueres, poderia representar uma forma de ampliar a aceitação desse tipo de carne pela população.</p>
+<p>Diante do exposto, o presente estudo teve por objetivo avaliar e comparar parâmetros físico-químicos e a aceitação sensorial de hambúrgueres produzidos com carne bubalina e com carne bovina, buscando-se uma possível alternativa para ampliar o consumo da carne de búfalos.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Material e métodos</title>
+<sec>
+<title>Material</title>
+<p>Para obtenção das amostras foram utilizados os cortes patinho e paleta, cujos componentes musculares estão descritos na portaria n. 5, de 8 de novembro de 1988, do Ministério da Agricultura, Pecuária e Abastecimento (<xref rid="B002" ref-type="bibr">BRASIL, 1988</xref>), a qual aprova a padronização dos cortes de carne bovina. Os músculos utilizados foram provenientes de um animal bovino Nelore castrado (<italic>Bos indicus indicus</italic>, 2 anos, 526 kg de peso vivo) e de um bubalino Mediterrâneo castrado (<italic>Bubalus bubalis</italic>, 2 anos, 439 kg de peso vivo), ambos abatidos no matadouro-escola do campus da USP de Pirassununga, de acordo com o Regulamento de Inspeção Industrial e Sanitária de Produtos de Origem Animal (<xref rid="B003" ref-type="bibr">BRASIL, 1952</xref>). Os músculos que compõem os cortes da paleta e do patinho, juntamente com a gordura subcutânea da carcaça de cada animal, foram separados e armazenados em freezer (–18 °C), até a produção dos hambúrgueres. A quantidade dos ingredientes utilizados para a elaboração dos hambúrgueres encontra-se na <xref rid="t01" ref-type="table">Tabela 1</xref>. A carne e a gordura, após descongeladas, foram moídas (discos de 4 mm), pesadas e acrescidas dos demais ingredientes. Após a homogeneização (10 minutos), a mistura foi submetida à prensagem e moldagem em formatadora manual (Picelli, Hp112, 11 cm de diâmetro). Os hambúrgueres obtidos (100 unidades de cada espécie, pesando entre 95 g e 100 g) foram acondicionados em papel manteiga, identificados, congelados em congelador ultrarrápido (UCE – 20, ECO) e novamente armazenados em freezer (–18° C).</p><fig id="f04" position="float" fig-type="figure"><label>Figura 4</label><caption><title>- Gráficos CCI dos 21 itens (desconsideram-se o 11 e o 14) Fonte: Elaborado pelos autores (2013).</title></caption><graphic xlink:href="ensaio86A5-gf02.tif"/></fig>
+<p>O primeiro <italic>b<sub>i,k</sub></italic>, no caso o <italic>b<sub>i,1</sub></italic>, indica o ponto de inflexão da curva da primeira categoria. O último <italic>b<sub>i,k</sub></italic>, no caso o <italic>b<sub>i,4</sub></italic>, indica o ponto de inflexão da curva da última categoria. Os <italic>b<sub>i,k</sub></italic> intermediários referem-se aos pontos médios dos picos entre duas categorias adjacentes (<xref ref-type="bibr" rid="B012">EMBRETSON; REISE, 2000</xref>). Nesse estudo, existem dois <italic>b<sub>i,k</sub></italic> intermediários: no caso, o <italic>b<sub>i,2</sub></italic>, cujo valor é a média entre os pontos de picos entre as categorias 2 e 3, e o <italic>b<sub>i,3</sub></italic>, cujo valor é a média entre os pontos de picos entre as categorias 3 e 4. Já a média dos valores dos <italic>b<sub>i,k</sub></italic> indica qual a posição do item na escala criada e, neste estudo, indica também o nível médio de satisfação do item. Por exemplo, o item 19 (interação do curso com a disciplina) possui o maior valor de <italic>b</italic> médio (–0,22) enquanto que o item 3 (domínio do assunto apresentado pelo professor) possui o menor valor de <italic>b</italic> médio (–1,76), sendo que a média geral foi –0,88. Isso indica que os itens estão posicionados entre os valores –1,76 e –0,22 na escala, ou seja, como todos os valores médios dos <italic>b<sub>i,k</sub></italic> dos itens são negativos, conclui-se que todos os itens foram avaliados mais como satisfatórios do que insatisfatórios.</p>
+<table-wrap id="t02" position="float">
+<label>Tabela 2</label><caption><title>Dados de processamento dos filmes tubulares.</title></caption>
+<table frame="hsides" rules="groups">
+<col width="30.2%"/>
+<col width="21.28%"/>
+<col width="48.52%"/>
+<thead>
+<tr>
+<th valign="top" align="left" scope="col">Formulação (PEBD/PEAD)</th>
+<th valign="top" align="left" scope="col">*RS</th>
+<th valign="top" align="left" scope="col">Simbologia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">PEBD<hr/></td>
+<td valign="top" align="left">1,5:1<hr/></td>
+<td valign="top" align="left">1A<hr/></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">PEBD<hr/></td>
+<td valign="top" align="left">2,5:1<hr/></td>
+<td valign="top" align="left">1B<hr/></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">PEBD<hr/></td>
+<td valign="top" align="left">3,5:1<hr/></td>
+<td valign="top" align="left">1C<hr/></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">PEAD<hr/></td>
+<td valign="top" align="left">1,5:1<hr/></td>
+<td valign="top" align="left">5A<hr/></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">PEAD<hr/></td>
+<td valign="top" align="left">2,5:1<hr/></td>
+<td valign="top" align="left">5B<hr/></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">PEAD</td>
+<td valign="top" align="left">3,5:1</td>
+<td valign="top" align="left">5C</td>
+</tr>
+</tbody>
+</table><table-wrap-foot>
+<fn id="TFN1"><label>*</label><p>Razão de sopro: (diâmetro do balão/diâmetro da matriz).</p></fn>
+</table-wrap-foot></table-wrap>
+<p>O grau de discriminação de um item (o valor de “<italic>a<sub>i</sub></italic>”) determina a “qualidade” do item, isto é, quanto maior o valor de “<italic>a<sub>i</sub></italic>”, maior o grau de discriminação do item. Observa-se, na <xref ref-type="table" rid="t02">Tabela 2</xref>, que os parâmetros de discriminação variaram de 1,15 a 2,63, indicando que todos os itens possuem um poder de discriminação satisfatório, já que os itens com discriminação baixa foram removidos. Por exemplo, o item 7 (clareza do professor) possui o maior valor de <italic>a<sub>i</sub></italic> enquanto que o item 16 (disponibilidade das referências bibliográficas) possui o menor valor de <italic>a<sub>i</sub></italic>.</p>
+<p>Para uma interpretação mais detalhada da CCI, utilizou-se o item 5 (<italic>a<sub>5</sub></italic> = 2,54; <italic>b<sub>5,1</sub></italic> = –1,93; <italic>b<sub>5,2</sub></italic> = –1,02; <italic>b<sub>5,3</sub></italic> = –0,12; <italic>b<sub>5,4</sub></italic> = 0,75), cuja CCI é apresentada na <xref ref-type="fig" rid="f05">Figura 5</xref>.</p>
+<fig id="f05" position="float" fig-type="figure"><label>Figura 5</label><caption><title>- CCI do Item 5 Fonte: Elaborado pelos autores (2013).</title></caption><graphic xlink:href="ensaio86A5-gf03.tif"/></fig>
+<p>A <xref ref-type="fig" rid="f05">Figura 5</xref> apresenta o gráfico do MRG para o item 5, considerando-se o nível de satisfação entre –3 e 3, que é o intervalo em que praticamente todos os indivíduos estarão situados na escala (0,1). Este item possui a seguinte descrição: “Capacidade de estímulo/motivação utilizada pelo professor”. Indivíduos com satisfação nesta escala, entre –3,0 e –1,8, têm maior probabilidade de responder a categoria 1 (muito insatisfeito); indivíduos com grau de satisfação entre –1,8 e –1,0 têm maior probabilidade de responder a categoria 2 (insatisfeito); indivíduos com grau de satisfação entre –1,0 e 0,0 têm maior probabilidade de responder a categoria 3 (indiferente); indivíduos com grau de satisfação entre 0,0 e 0,7 têm maior probabilidade de responder a categoria 4 (satisfeito), e indivíduos com grau de satisfação maior que 0,7 têm maior probabilidade de responder a categoria 5 (muito satisfeito). Esse é um exemplo de item que funciona adequadamente para avaliar a satisfação dos alunos, pois consegue discriminar os alunos entre as categorias de satisfação.</p>
+<p>A <xref ref-type="fig" rid="f06">Figura 6</xref> apresenta a Função de Informação Total (FIT) do instrumento de medida. Observa-se que o instrumento de medida tem maior informação no intervalo entre –3 e 1, o que corrobora com a posição dos itens na escala, segundo esse modelo, os quais situam-se entre –1,76 e –0,22. Isso significa que esse questionário de avaliação é mais adequado para medir a satisfação de indivíduos que possuem nível de satisfação entre –3 e 1. Além disso, os itens são, por estarem posicionados na região negativa da escala (0,1), “fáceis”, ou seja, a maioria dos indivíduos estará satisfeito com eles, como foi observado na <xref ref-type="table" rid="t02">Tabela 2</xref>.</p>
+<fig id="f06" position="float" fig-type="figure"><label>Figura 6</label><caption><title>- Função de Informação do Teste Fonte: Elaborado pelos autores (2013).</title></caption><graphic xlink:href="ensaio86A5-gf04.tif"/></fig>
+<p>A <xref ref-type="table" rid="t03">Tabela 3</xref> apresenta a distribuição de frequência do traço latente, ou seja, do nível de satisfação. Observa-se que os dados encontram-se pouco dispersos e que nenhum respondente teve nível de satisfação estimado abaixo de –3 ou acima de 3 na escala (0, 1). O nível de satisfação médio foi de 0,003, com desvio padrão igual a 0,94, sendo que a maioria dos valores está localizada entre –2 e 2. O erro padrão das estimativas do traço latente variou entre 0,17 e 0,48, indicando uma boa precisão das estimativas. Observa-se que 50,4% dos respondentes possuem satisfação acima do valor da média da escala (zero).</p>
+<p>Os autores agradecem aos auxílios da Fundação de Amparo à Pesquisa do Estado de São Paulo – <funding-source rid="sp1">FAPESP</funding-source> (<award-id rid="sp1">2009/15998-1</award-id> e <award-id rid="sp1">2012-19656-0</award-id>) e ao CNPq e a Capes.</p>
+</sec>
+</sec>
+</body>
+<back>
+	
+</back>
+</article>
